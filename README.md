@@ -39,3 +39,6 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## steps 
 1 - models Jod 
 2 - library mongoose
+3 - schemas for the next js
+4 - useing the jod (tyoe script first schema validations)
+5 - database connections(in next js you always checks that db connection is already there or not)
