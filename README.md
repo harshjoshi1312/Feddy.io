@@ -42,3 +42,18 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 3 - schemas for the next js
 4 - useing the jod (tyoe script first schema validations)
 5 - database connections(in next js you always checks that db connection is already there or not)
+
+6-mongoose vs next auth
+
+
+
+## advanced
+1 zod
+2 resend email
+
+## scenario
+mainly theres 3 flow what is 
+1 user exist
+2 exist and registered 
+3 exist but unregistered
+4 signup route with complete flow
