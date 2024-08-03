@@ -59,4 +59,14 @@ mainly theres 3 flow what is
 3 exist but unregistered
 4 next auth in next js
  -- api / auth / [...nextauth ] folder sturcuture with options and routes file.
+-- two files - options.ts, routes.ts
+-- this next auth documentation is little bit jumpy way 
+
+-- steps to implement next auth.
+
+//1 check which flow you want to add
+// 2 i want to add credential login/signup means email password
+// middleware
+// Pages
+
  5 define the middleware for  
