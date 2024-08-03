@@ -44,6 +44,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 5 - database connections(in next js you always checks that db connection is already there or not)
 
 6-mongoose vs next auth
+7- signup route with complete flow
 
 
 
@@ -56,4 +57,6 @@ mainly theres 3 flow what is
 1 user exist
 2 exist and registered 
 3 exist but unregistered
-4 signup route with complete flow
+4 next auth in next js
+ -- api / auth / [...nextauth ] folder sturcuture with options and routes file.
+ 5 define the middleware for  

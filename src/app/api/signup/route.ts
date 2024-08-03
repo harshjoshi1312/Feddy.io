@@ -77,6 +77,13 @@ export async function POST(request: Request) {
         { status: 500 }
       );
     }
+    return Response.json(
+      {
+        success: true,
+        message: "User registered Successfully, Please verify your email",
+      },
+      { status: 201 }
+    );
   } catch (error) {
     console.log("error registered error", error);
     return Response.json(
@@ -90,5 +97,3 @@ export async function POST(request: Request) {
     );
   }
 }
-
-// 12.41 done in videos okkey harshu
