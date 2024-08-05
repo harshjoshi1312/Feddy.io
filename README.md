@@ -45,6 +45,9 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 6-mongoose vs next auth
 7- signup route with complete flow
+8 - messaging route group route frontend
+9 - integrate vercel ai
+10 - time to implement schadcn , debounce frontend part
 
 
 
@@ -70,3 +73,8 @@ mainly theres 3 flow what is
 // Pages
 
  5 define the middleware for  
+
+
+
+-- steps to implement ai
+// npm install ai open ai
